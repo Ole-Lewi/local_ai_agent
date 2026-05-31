@@ -88,3 +88,5 @@ Building under constraints forces you to understand what each component actually
 Lewis Miano (Lincoln)
 ALX Backend Web Dev · ML/NLP · Agentic AI Systems
 GitHub · Portfolio Bot
+
+[GitHub](https://github.com/Ole-Lewi) · [Portfolio Bot](https://professional-portfolio-5.onrender.com)
